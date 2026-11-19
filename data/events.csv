@@ -1,0 +1,9 @@
+id,timestamp,donation_id,food_name,event,actor,details
+EVT-0E524B,2026-11-19T22:02:02,SYSTEM,System,Reset,Admin,Sample data restored to clean demonstration state.
+EVT-101,2026-11-17T22:02:02,FR-2026-1004,Sealed Oats & Granola Packs,Created,Metro Food Mart (Donor),Listed 50 packets for Whitefield redistribution.
+EVT-102,2026-11-18T04:02:02,FR-2026-1004,Sealed Oats & Granola Packs,Accepted,City Care Foundation (NGO),Accepted for community youth centers.
+EVT-103,2026-11-18T10:02:02,FR-2026-1004,Sealed Oats & Granola Packs,Completed,Volunteer Driver (Volunteer),Successfully delivered to shelter pantries.
+EVT-104,2026-11-19T14:02:02,FR-2026-1003,Fresh Apple & Orange Crates,Created,Campus Dining Hall (Donor),Published 25 boxes of fresh produce.
+EVT-105,2026-11-19T17:02:02,FR-2026-1003,Fresh Apple & Orange Crates,Accepted,Hope Community Kitchen (NGO),Accepted for morning breakfast distribution.
+EVT-106,2026-11-19T16:02:02,FR-2026-1006,Mixed Crisp Vegetables,Picked Up,Volunteer Raj (Volunteer),Collected from HSR Layout; en route to distribution hub.
+EVT-107,2026-11-19T21:02:02,FR-2026-1005,Paneer Biryani & Dal Makhani,Created,Royal Banquet Hall (Donor),Listed urgent hot meals needing immediate rescue.
